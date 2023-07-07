@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 global.owner = [
   ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
   ['xxxxxxxxxx',],
-  //['xxxxxxxxxx'],	
+  //['3296080130'],	
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
@@ -54,7 +54,7 @@ global.imagen1 = ['./media/menu1.jpg']
 //════════════ •⊰✧⊱• ════════════
 
 // Sticker WM
-global.packname = 'ꪶ 𝐁𝐢𝐱𝐛𝐲 𝐕𝐢𝐬𝐢𝐨𝐧 ꫂ'
+global.packname = 'ꪶ 𝐁𝐢𝐱𝐛𝐲 god ꫂ'
 global.author = ''
 
 //════════════ •⊰✧⊱• ════════════
